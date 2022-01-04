@@ -1,7 +1,10 @@
 ### Hi there 👋
 
-I'm a Tech-Ed teacher turned software developer, and a lover of all things tech! I am passionate about learning new things and honing my craft to build great software.
-Technologies I currently work with include: HTML5, CSS3, JavaScript, jQuery, SQL, SQLite, Python, Tkinter, Bootstrap, and Django.
+I'm a Tech-Ed teacher :woman_teacher: turned software developer :computer:, and a lover of all things tech! 
+
+I am passionate :heart: about learning new things :smiley_cat::bulb: and honing my craft to build great software.
+
+:woman_technologist: Technologies I currently work with include: :gear: HTML5, CSS3, JavaScript, jQuery, SQL, SQLite, Python, Tkinter, Bootstrap, and Django.
 
 
 <!--
