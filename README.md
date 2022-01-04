@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm a Tech-Ed teacher turned software developer, and a lover of all things tech! I am passionate about learning new things and honing my craft to build great software.
+Technologies I currently work with include: HTML5, CSS3, JavaScript, jQuery, SQL, SQLite, Python, Tkinter, Bootstrap, and Django.
+
+
 <!--
 **lytburton/lytburton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
