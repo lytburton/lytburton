@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Tech-Ed teacher :woman_teacher: turned software developer :computer:, and a lover of all things tech! 
+I'm a software developer :computer: and a lover of all things tech! 
 
 I am passionate :heart: about learning new things :smiley_cat::bulb: and honing my craft to build great software.
 
