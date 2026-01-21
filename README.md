@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-I'm a software developer :computer: and a lover of all things tech! 
-
-I am passionate :heart: about learning new things :smiley_cat::bulb: and honing my craft to build great software.
-
-:woman_technologist: Technologies I currently work with include: :gear: HTML5, CSS3, JavaScript, jQuery, SQL, SQLite, Python, Tkinter, Bootstrap, and Django.
 
 
 <!--
@@ -20,4 +15,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Previous readme: 
+I'm a software developer :computer: and a lover of all things tech! 
+
+I am passionate :heart: about learning new things :smiley_cat::bulb: and honing my craft to build great software.
+
+:woman_technologist: Technologies I currently work with include: :gear: HTML5, CSS3, JavaScript, jQuery, SQL, SQLite, Python, Tkinter, Bootstrap, and Django.
 -->
